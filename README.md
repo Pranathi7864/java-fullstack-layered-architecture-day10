@@ -32,12 +32,19 @@ This project demonstrates a layered architecture in Spring Boot using Model, Con
 ## Project Structure
 
 src
+
 └── main
+
     └── java
+    
         ├── controller
+        
         ├── service
+        
         ├── repository
+        
         ├── model
+        
         └── application
 
 ## Outcome
